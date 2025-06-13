@@ -1,6 +1,6 @@
 # About-Me
 # 💫 About Me:
-🔹 Multilingual front-end developer & UI/UX designer turning creative ideas into seamless solutions.<br>🔹 Proven track record in web design, social media strategy, and crafting user-centric digital experiences.<br>🔹 Passionate about blending aesthetics and functionality to solve real-world problems creatively.
+🔹 Multilingual front-end developer & UI/UX designer turning creative ideas into seamless solutions.<br>🔹 Proven track record in web design, social media strategy, and crafting user-centric digital experiences.<br>🔹 Passionate about blending aesthetics and functionality to solve real-world problems creatively!
 
 
 ## 🌐 Socials:
